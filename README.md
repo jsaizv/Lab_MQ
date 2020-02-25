@@ -16,7 +16,7 @@ Este laboratorio consta de 2 máquinas virtuales de CentOS 8:
 
 Desde la CMD:
 
-$ cd <carpeta del laboratorio>
+$ cd (carpeta del laboratorio)
 $ vagrant up
 
 ### mqCliente
@@ -35,7 +35,7 @@ Dicho script instalará el Docker CE y se descargará la imagen oficial de IBM e
 
 Para simular una conexión nos conectaremos al mqCliente desde la CMD:
 
-$ cd <carpeta del laboratorio>
+$ cd (carpeta del laboratorio)
 $ vagrant ssh mqCliente
 
 Una vez en el servidor ejecutaremos lo siguiente:
