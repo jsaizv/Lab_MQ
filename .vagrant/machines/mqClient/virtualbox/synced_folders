@@ -1,0 +1,1 @@
+{"virtualbox":{"/provision":{"guestpath":"/provision","hostpath":"C:/Users/javier.saiz/Documents/Documentacion/PNR/Desarrollo/vagrant/Lab_MQ/provision","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/javier.saiz/Documents/Documentacion/PNR/Desarrollo/vagrant/Lab_MQ","disabled":false,"__vagrantfile":true}}}
